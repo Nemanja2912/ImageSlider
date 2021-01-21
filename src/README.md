@@ -20,4 +20,4 @@ In CSS you need only set height and width of image-slider and that's it
 
 ## JavaScript
 
-At the start of javaScript file you will se *Public variable*. There you will have transition and change speed. So you can set how long will image be change and how often. Change speed must be higher than transition speed.
+At the start of javaScript file you will se **Public variable**. There you will have transition and change speed. So you can set how long will image be change and how often. Change speed must be higher than transition speed.
